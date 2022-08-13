@@ -6,7 +6,7 @@ Software Engineer
 Used [React](https://reactjs.org/^18.2.0) for local development.
 
 ## About Project(reactecom)
-Here, I implements products search and pagination api using react as frontend library.
+Here, I Implements category, product, checkout etc api using react as frontend library.
 
 ## Tools(reactecom)
 - HTML
